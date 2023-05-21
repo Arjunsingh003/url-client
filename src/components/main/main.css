@@ -1,0 +1,40 @@
+.mainTable{
+    margin: 50px;
+}
+.tableHead{
+    background-color:purple;
+    border-radius: 10px;
+}
+.tableHeadRow{
+    border-radius: 10px;
+}
+.tableHeadCell{
+    color: black !important;
+    
+}
+.table{
+    border-radius: 50px;
+    color:purple;;
+}
+.tableLinktag{
+    text-decoration: none;
+}
+
+.tableLinktag:link {
+    color: black;
+  }
+  
+  /* visited link */
+.tableLinktag:visited {
+    color: red;
+  }
+  
+  /* mouse over link */
+.tableLinktag:hover {
+    color: green;
+  }
+  
+  /* selected link */
+.tableLinktag:active {
+    color:  green;
+}
